@@ -1,7 +1,7 @@
 # edk2-lavender
 
 #### EDK2 for Redmi Note 7 with working eMMC
-[![download](https://img.shields.io/github/downloads/serdeliuk/edk2-lavender/total)](https://github.com/serdeliuk/edk2-lavender/releases/download/1/edk2-lavender.zip)
+[![download](https://img.shields.io/github/downloads/serdeliuk/edk2-lavender/total)](https://github.com/serdeliuk/edk2-lavender/releases/download/1/edk2-lavender.0.0.1.zip)
 
 eMMC boot screen preview
 ---
