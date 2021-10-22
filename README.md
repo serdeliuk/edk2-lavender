@@ -2,6 +2,7 @@
 
 #### EDK2 for Redmi Note 7 (sdm660) with working eMMC
 [![download](https://img.shields.io/github/downloads/serdeliuk/edk2-lavender/total)](https://github.com/serdeliuk/edk2-lavender/releases/download/1/edk2-lavender.0.0.1.zip)
+- Confirmed to have working eMMC on following devices <br>sdm630/636/660
 
 eMMC boot screen preview
 ---
