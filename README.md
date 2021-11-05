@@ -6,7 +6,7 @@
 
 eMMC boot screen preview
 ---
-![eMMC](https://github.com/serdeliuk/edk2-lavender/blob/main/pictures/emmc-efi.boot.jpg)
+![eMMC](https://github.com/serdeliuk/edk2-lavender/blob/main/pictures/eMMC.PE.boot.jpg)
 <br><br><br><br>
 1. place your xbl.elf extracted from a firmware update in xbl folder
 2. run xbl-extract.sh inside xbl folder
